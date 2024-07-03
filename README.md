@@ -62,3 +62,5 @@ Understand your application's needs to choose the best scaling method. Whether y
 ---
 
 By planning for future growth, you'll keep your database robust and ready for any challenge. 🚀
+
+Read More: [Blog Link](https://medium.com/@parmarvenisha725/horizontal-and-vertical-scaling-in-databases-cd160a1408a6)
